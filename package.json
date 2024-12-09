@@ -23,7 +23,7 @@
     "babel-jest": "^27.3.1",
     "codecov": "^3.8.3",
     "conventional-github-releaser": "^3.1.5",
-    "esbuild": "^0.13.13",
+    "esbuild": "^0.24.0",
     "eslint": "^8.2.0",
     "eslint-plugin-react": "^7.27.0",
     "eslint-plugin-react-hooks": "^4.3.0",
