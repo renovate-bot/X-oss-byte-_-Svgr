@@ -37,6 +37,6 @@
     "cosmiconfig": "^7.0.1"
   },
   "devDependencies": {
-    "@types/svgo": "^2.6.0"
+    "@types/svgo": "^3.0.0"
   }
 }
